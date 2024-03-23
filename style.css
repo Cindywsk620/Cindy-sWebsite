@@ -1,0 +1,25 @@
+@font-face {
+    font-family: monocraft;
+    src: url(fonts/Monocraft.ttf);
+}
+body{
+    background-color: #434A54;
+    color: #34b869;
+    font-family: monospace;
+}
+div{
+    border: dashed #0576FF;
+    font-family: monocraft;
+    display: flow-root;
+}
+#img1{
+    border: solid 3px #0576FF;
+    margin-right: 5px auto;
+    float: left;
+}
+#block{
+    color: #f3f3f3;
+}
+#p2{
+    color: antiquewhite;
+}
